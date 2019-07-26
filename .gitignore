@@ -12,4 +12,4 @@ Dart_Packages.xml
 .DS_Store
 .idea/
 *.aqueduct.pid
-bin/Constants.dart
+lib/custom/Constants.dart

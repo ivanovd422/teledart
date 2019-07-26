@@ -1,6 +1,6 @@
 import 'dart:isolate';
+import 'package:teledart/custom/clientStarter.dart';
 import 'package:teledart/teledart.dart';
-import 'clientStarter.dart';
 
 Future main() async {
   final app = Application<TeledartChannel>()

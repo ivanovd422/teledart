@@ -3,7 +3,7 @@ import 'dart:io';
 
 import '../API/Data/UpdateData.dart';
 import '../API/TelegramApi/TelegramApiImpl.dart';
-import '../Constants.dart';
+import 'package:teledart/custom/Constants.dart';
 import 'TelegramService.dart';
 
 class TelegramServiceImpl extends TelegramService {

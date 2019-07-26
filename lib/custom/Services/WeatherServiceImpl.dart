@@ -1,7 +1,7 @@
 import '../API/Data/WeatherData.dart';
 import '../API/WeatherApi/WeatherApi.dart';
 import '../API/WeatherApi/WeatherApiImpl.dart';
-import '../Constants.dart';
+import 'package:teledart/custom/Constants.dart';
 import 'WeatherService.dart';
 
 class WeatherServiceImpl extends WeatherService {
